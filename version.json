@@ -6,10 +6,13 @@
     "name": "NKRoblox.zip",
     "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.0.0/NKRoblox.zip",
     "size": 246093586,
-    "sha256": "c24b4459bde8c53f64b703b2e6091198c81e7bb4a55559815c12495dda86a4e4"
+    "sha256": "c24b4459bde8c53f64b703b2e6091198c81e7bb4a55559815c12495dda86a4e4",
+    "extractedSize": 387737894
   },
   "installDir": "NKFILES",
   "launch": "RobloxPlayerBeta.exe",
+  "launchSize": 141403600,
+  "minFiles": 14,
   "shortcut": "NK Roblox",
   "notes": "Self-contained patched client. Extracts to %LOCALAPPDATA%/NKFILES/<robloxVersion>."
 }
