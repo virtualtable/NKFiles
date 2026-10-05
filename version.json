@@ -1,12 +1,12 @@
 {
   "schema": 4,
-  "version": "4.1.0",
+  "version": "4.1.1",
   "robloxVersion": "version-02c37bc51a384b8f",
   "bundle": {
     "name": "NKRoblox.zip",
-    "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.1.0/NKRoblox.zip",
-    "size": 253080488,
-    "sha256": "5f43e06075759608fc46758f33d6c1c2e934c651b67d33afe0d7c4623d9913c5",
+    "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.1.1/NKRoblox.zip",
+    "size": 253080564,
+    "sha256": "e53c1ddcf775ad3b629f9ca5baa8d126d912ed14b06bd83b607054f0659685a7",
     "extractedSize": 384435725
   },
   "installDir": "NKFILES",
