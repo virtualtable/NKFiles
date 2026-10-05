@@ -1,13 +1,13 @@
 {
   "schema": 4,
-  "version": "4.1.3",
+  "version": "4.1.4",
   "robloxVersion": "version-02c37bc51a384b8f",
   "bundle": {
     "name": "NKRoblox.zip",
-    "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.1.3/NKRoblox.zip",
-    "size": 253081395,
-    "sha256": "51650d63b269362a2c155396de61f97ce96b5b776eb29ac760ca1d64780b71b2",
-    "extractedSize": 384437261
+    "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.1.4/NKRoblox.zip",
+    "size": 253085794,
+    "sha256": "835dfa4548a71fae4d7aae06b266cbbc7fbc9a96af7b22bc20b95923463aa83a",
+    "extractedSize": 384444429
   },
   "installDir": "NKFILES",
   "launch": "RobloxPlayerBeta.exe",
