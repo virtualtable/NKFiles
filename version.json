@@ -1,17 +1,17 @@
 {
   "schema": 4,
-  "version": "4.1.5",
-  "robloxVersion": "version-02c37bc51a384b8f",
+  "version": "4.2.0",
+  "robloxVersion": "version-cec3ad5889b447cf",
   "bundle": {
     "name": "NKRoblox.zip",
-    "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.1.5/NKRoblox.zip",
-    "size": 253084775,
-    "sha256": "3243952bdb00e2e8db393c2ae4dde44ae4039081a966c82edc554cd8275a8c2b",
-    "extractedSize": 384442893
+    "url": "https://github.com/virtualtable/NKFiles/releases/download/v4.2.0/NKRoblox.zip",
+    "size": 237003631,
+    "sha256": "17887c786523c4d60da9eeab247b5d9f3c748ce8a19e8f2a3a2d8b8501f77ff1",
+    "extractedSize": 368498014
   },
   "installDir": "NKFILES",
   "launch": "RobloxPlayerBeta.exe",
-  "launchSize": 141403600,
+  "launchSize": 141782992,
   "minFiles": 13,
   "shortcut": "NK Roblox",
   "notes": "Self-contained patched client. Extracts to %LOCALAPPDATA%/NKFILES/<robloxVersion>."
